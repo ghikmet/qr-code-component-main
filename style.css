@@ -58,6 +58,7 @@ body {
     font-weight: 700;
     line-height: 120%;
     text-align: center;
+    color: var(--color-slate-900);
 }
 
 .content__subtitle {
@@ -69,6 +70,7 @@ body {
     font-weight: 400;
     line-height: 140%;
     text-align: center;
+    color: var(--color-slate-500);
 }
 
 @media (min-width: 375px) {
